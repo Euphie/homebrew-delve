@@ -3,7 +3,7 @@ class Delve < Formula
   homepage "https://github.com/derekparker/delve"
   url "https://github.com/derekparker/delve/archive/v0.12.2.tar.gz"
   version "0.12.2"
-  sha256 "4f0f85facb15e5d9fdae9d8939672279829b5b2c1f9176484708f962ccb7b6b8"
+  sha256 "3dc9f6b7167b87dfa1142ddf6865ff4be6593624a965533870ce0c7aae007299"
 
   head "https://github.com/derekparker/delve.git"
 
